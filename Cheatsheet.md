@@ -62,5 +62,3 @@
 
 ---
 
-This cheat sheet provides a quick reference for essential Terraform commands. 🚀 Let me know if you need any modifications or additions! 😊
-
